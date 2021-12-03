@@ -1,5 +1,6 @@
+nop
 push 1
-
 pall
-rotr
+pop
 pall
+pop

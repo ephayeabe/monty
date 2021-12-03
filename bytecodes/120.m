@@ -1,5 +1,3 @@
 push 1
-
-pall
-rotr
+add
 pall
